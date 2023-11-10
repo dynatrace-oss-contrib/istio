@@ -251,3 +251,5 @@ require (
 	sigs.k8s.io/kustomize/kyaml v0.16.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 )
+
+replace istio.io/api => github.com/dynatrace-oss-contrib/istio-api v0.0.0-20240126094728-1cadde0e232a

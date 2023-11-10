@@ -173,6 +173,8 @@ github.com/docker/spdystream v0.0.0-20160310174837-449fdfce4d96/go.mod h1:Qh8CwZ
 github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
 github.com/dustin/go-humanize v0.0.0-20171111073723-bb3d318650d4/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/dynatrace-oss-contrib/istio-api v0.0.0-20240126094728-1cadde0e232a h1:nWwtcaFxdQFeykI3ll1DWeIh7DtIjgd130xCMiYDwME=
+github.com/dynatrace-oss-contrib/istio-api v0.0.0-20240126094728-1cadde0e232a/go.mod h1:TFCMUCAHRjxBv1CsIsFCsYHPHi4axVI4vdIzVr8eFjY=
 github.com/elazarl/goproxy v0.0.0-20180725130230-947c36da3153/go.mod h1:/Zj4wYkgs4iZTTu3o/KG3Itv/qCCa8VVMlb3i9OVuzc=
 github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
 github.com/emicklei/go-restful v2.9.5+incompatible/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=
@@ -1108,8 +1110,6 @@ helm.sh/helm/v3 v3.13.3/go.mod h1:3OKO33yI3p4YEXtTITN2+4oScsHeQe71KuzhlZ+aPfg=
 honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190106161140-3f1c8253044a/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
-istio.io/api v1.19.0-alpha.1.0.20240125172533-cc05e6259edf h1:wh/SEJB4iWyeKUOQkHcUtQio6GQV9t99+lpQ2VeAGlk=
-istio.io/api v1.19.0-alpha.1.0.20240125172533-cc05e6259edf/go.mod h1:TFCMUCAHRjxBv1CsIsFCsYHPHi4axVI4vdIzVr8eFjY=
 istio.io/client-go v1.19.0-alpha.1.0.20240125173231-0f298e1e13eb h1:Os081afwcp0uTsEEVemScZUOb18fHzKBThg8lKFT4N0=
 istio.io/client-go v1.19.0-alpha.1.0.20240125173231-0f298e1e13eb/go.mod h1:RfhRMX9kr6mBPjt1hZ7BGIrTvsvTIK4y+HhqxpCeO6c=
 k8s.io/api v0.18.2/go.mod h1:SJCWI7OLzhZSvbY7U8zwNl9UA4o1fizoug34OV/2r78=
